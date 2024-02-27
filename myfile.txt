@@ -1,0 +1,47 @@
+Delivery
+Burgers
+Chinese
+Italian
+Reservations
+Japanese
+Mexican
+Thai
+Contractors
+Electricians
+Home Cleaners
+HVAC
+Landscaping
+Locksmiths
+Movers
+Plumbers
+Auto Repair
+Auto Detailing
+Body Shops
+Car Wash
+Car Dealers
+Oil Change
+Parking
+Towing
+Dry Cleaning
+Phone Repair
+Bars
+Nightlife
+Hair Salons
+Gyms
+Massage
+Things to Do
+Charlotte
+Chicago
+Columbus
+Dallas
+Denver
+El Paso
+Fort Worth
+Houston
+Indianapolis
+Jacksonville
+Nashville
+Philadelphia
+San Francisco
+Seattle
+Washington
